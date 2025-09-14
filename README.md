@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rahul Singh  
 
-<!--
-**rahulRhodes/rahulRhodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist | AI & ML Enthusiast | Computer Vision & GenAI**  
+I specialize in building **end-to-end AI solutions** — from **data preprocessing, model development, and optimization** to **deployment and MLOps**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools  
+- **Languages & ML**: Python, SQL, Bash, XGBoost, SARIMA  
+- **Deep Learning & CV**: PyTorch, TensorFlow, OpenCV, YOLO, CNNs, RNNs  
+- **Generative AI & NLP**: Hugging Face, LangChain, LLMs, RAG  
+- **MLOps & Cloud**: Docker, GitHub Actions, AWS (Lambda, S3, CodePipeline), Streamlit, FastAPI  
+
+---
